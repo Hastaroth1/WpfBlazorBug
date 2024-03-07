@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfBlazorApp", "WpfBlazorApp\WpfBlazorApp.csproj", "{2F52AA89-DC94-459F-928B-3F9CA3C223CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfComponents", "WpfComponents\WpfComponents.csproj", "{DF24BB28-C274-4E9D-9EA2-4D06AF0AF1C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F52AA89-DC94-459F-928B-3F9CA3C223CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F52AA89-DC94-459F-928B-3F9CA3C223CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F52AA89-DC94-459F-928B-3F9CA3C223CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F52AA89-DC94-459F-928B-3F9CA3C223CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF24BB28-C274-4E9D-9EA2-4D06AF0AF1C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF24BB28-C274-4E9D-9EA2-4D06AF0AF1C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF24BB28-C274-4E9D-9EA2-4D06AF0AF1C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF24BB28-C274-4E9D-9EA2-4D06AF0AF1C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D283A71E-047D-4EBF-8438-01A1698835D3}
+	EndGlobalSection
+EndGlobal
